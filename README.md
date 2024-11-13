@@ -1,5 +1,3 @@
-# Blex Olonde's Profile 👋
-
 ## About Me
 
 - 🔭 I’m currently working on transforming ideas into reality with code.
