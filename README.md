@@ -38,11 +38,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlexOlonde&layout=compact)
 
-## Animated Badge (for extra flair)
-![Animated Coding](https://media.giphy.com/media/3o7qD2sZbKmbsGVuoE/giphy.gif)
 
-## Music I Love 🎶
-
-Check out my favorite genre – Afro Pop & Amapiano:
-
-![Afro Pop](https://media.giphy.com/media/12bGxkKN2w3oRm/giphy.gif)
