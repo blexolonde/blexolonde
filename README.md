@@ -32,5 +32,5 @@
 
 ## GitHub Stats
 
-![Blex's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+![Blex's GitHub stats](https://github-readme-stats.vercel.app/api?username=blexolonde&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blexolonde&layout=compact&theme=default)
