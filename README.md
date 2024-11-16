@@ -1,6 +1,5 @@
 ## About Me
 
-- 🔭 I’m currently working on transforming ideas into reality with code.
 - 🌱 I’m currently learning Python, SQL, R programming, JavaScript, and mastering Git.
 - 👯 I’m looking to collaborate on projects that involve data analysis and web development.
 - 🤔 I’m looking for help with enhancing my skills in machine learning.
@@ -32,8 +31,6 @@
 
 ![Blex's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlexOlonde&show_icons=true&count_private=true&hide_title=true)
 
-## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlexOlonde&layout=compact)
 
 
