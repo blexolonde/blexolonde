@@ -1,3 +1,6 @@
+## Hi there 👋 I am Blex
+I am passionate about machine learning and artificial intelligence, always exploring new techniques to solve real-world problems and foster innovation.
+
 ## Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
