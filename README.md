@@ -1,14 +1,6 @@
-## About Me
 
 - 🌱 I’m currently learning Python, SQL, CSS, JavaScript, and mastering Git.
-- 👯 I’m looking to collaborate on projects that involve data analysis and web development.
 - 🤔 I’m looking for help with enhancing my skills in machine learning.
-
-
-## Fun Facts
-
-- ⚽ I play soccer and follow the Premier League closely.
-- 🎮 Gamer at heart – love to play FIFA and adventure games.
 
 ## Technologies & Tools
 
