@@ -1,7 +1,3 @@
-
-- 🌱 I’m currently learning Python, SQL, CSS, JavaScript, and mastering Git.
-- 🤔 I’m looking for help with enhancing my skills in machine learning.
-
 ## Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -18,9 +14,7 @@
 - [LinkedIn](https://www.linkedin.com)
 - [Twitter](https://www.twitter.com)
 
-## GitHub Stats
 
-![Blex's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlexOlonde&show_icons=true&count_private=true&hide_title=true)
 
 
 
