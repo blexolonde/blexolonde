@@ -1,5 +1,5 @@
-## Hi there 👋 I am Blex
-I am passionate about machine learning and artificial intelligence, always exploring new techniques to solve real-world problems and foster innovation.
+## Hi! 👋 I am Blex
+I have a passion for turning complex data into intuitive, interactive web experiences. I thrive at the intersection of data-driven insights and user-focused design, crafting visualizations and interfaces that make information both beautiful and actionable. Whether it's building dashboards, developing front-end features, or creating seamless user journeys, I bring both analytical thinking and creative coding to every project..
 
 ## Technologies & Tools
 
