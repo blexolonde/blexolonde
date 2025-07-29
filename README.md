@@ -1,5 +1,5 @@
 ## Hi! 👋 I am Blex
-I have a passion for turning complex data into intuitive, interactive web experiences. I thrive at the intersection of data-driven insights and user-focused design, crafting visualizations and interfaces that make information both beautiful and actionable.
+I turn complex data into intuitive, interactive web experiences. I thrive at the intersection of data-driven insights and user-focused design, crafting visualizations and interfaces that make information both beautiful and actionable.
 ## Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
