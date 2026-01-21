@@ -1,3 +1,6 @@
 ## Hi! 👋  
-I’m a learning data scientist with interests in football analytics and sentiment analysis.  
-I love exploring how data—especially human sentiment—can be transformed into insights that improve businesses and user experiences.
+Aspiring data scientist skilled in Python, SQL, R, and JavaScript.  
+I enjoy data visualization, sentiment analysis, and football analytics—using data to improve business decisions.
+
+🔗 **Connect with me:**  
+- LinkedIn: https://www.linkedin.com/in/blexolonde/ 
