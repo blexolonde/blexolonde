@@ -1,11 +1,3 @@
-## Hi! 👋 I am Blex
-I turn complex data into intuitive, interactive web experiences. I thrive at the intersection of data-driven insights and user-focused design, crafting visualizations and interfaces that make information both beautiful and actionable.
-
-
-
-
-
-
-
-
-
+## Hi! 👋  
+I’m a learning data scientist with interests in football analytics and sentiment analysis.  
+I love exploring how data—especially human sentiment—can be transformed into insights that improve businesses and user experiences.
