@@ -5,3 +5,5 @@ I enjoy data visualization, sentiment analysis, and football analytics—using d
 🔗 **Connect with me:**  
 - [LinkedIn](https://www.linkedin.com/in/blexolonde/)  
 - [Instagram](https://www.instagram.com/lion_bleezy)
+
+- https://blexolonde-portfolio.netlify.app/
